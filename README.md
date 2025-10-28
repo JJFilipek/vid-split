@@ -39,3 +39,7 @@ A lightweight helper that turns landscape MP4 videos into vertical TikTok-ready 
 
 - If you see FFmpeg errors, run the script once without redirecting stdout/stderr to inspect the full command output (remove the `DEVNULL` suppressors).
 - Ensure `tosplit/` is not empty; otherwise, nothing will be processed.
+
+## License
+
+This project is distributed under the terms of the [APACHE License](LICENSE).
